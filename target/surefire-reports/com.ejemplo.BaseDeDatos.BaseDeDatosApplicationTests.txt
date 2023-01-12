@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ejemplo.BaseDeDatos.BaseDeDatosApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.652 s - in com.ejemplo.BaseDeDatos.BaseDeDatosApplicationTests
